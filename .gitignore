@@ -29,6 +29,9 @@ go.work.sum
 # env file
 .env
 
+# Local AI session memory
+.copilot-session-memory.md
+
 # Editor/IDE
 # .idea/
 # .vscode/
